@@ -34,7 +34,7 @@ It is reccomended to use magisk to root this phone, but due to some change in th
 - #hex_
     - #hex_ is an app that allows you to use the Samsung theming backend at your advantage to make really cool looking themes by yourself. Unfortunately, __this app is dead and won't work on oneUI versions higher than 6.1.1__
 - Generic ThemeCenter Patcher
-    - Allows you to bypass the trial system of themeCenter, __This reccomendation is meant to bypass the trial bug on #hex_, not to use themes without paying, i will not be responsible if a theme dev gets mad at you for using this module__
+    - Allows you to bypass the trial system of themeCenter, __This reccomendation is meant to bypass the trial bug on #hex, not to use themes without paying, i will not be responsible if a theme dev gets mad at you for using this module__
 - Viper4Android
     - Magisk module and app that allows you to customize your sound experience even more
 - Bluetooth Library Patcher
