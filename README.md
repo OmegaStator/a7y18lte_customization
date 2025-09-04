@@ -1,5 +1,5 @@
-# a7y18lte_customization
-Compilation of files, tips and tricks and other things to reach the next level of customization
+# a7y18lte_docs
+Compilation of files, tips and tricks and other things to reach the next level of customization and to do more with your phone
 
 ## GoodLock and GoodGuardians
 You can use GoodLock on the Samsung Galaxy A7 2018, you can use it with one of the following methods :
