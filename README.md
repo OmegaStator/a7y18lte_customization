@@ -1,6 +1,9 @@
 # a7y18lte_docs
 Compilation of files, tips and tricks and other things to reach the next level of customization and to do more with your phone
 
+## Performance and specs
+Specs and performance can be found in the [specs.md](specs.md) file
+
 ## GoodLock and GoodGuardians
 You can use GoodLock on the Samsung Galaxy A7 2018, you can use it with one of the following methods :
 - Downloading GoodLock/GoodGuardians directly from the Galaxy Store (requires a Samsung account)
