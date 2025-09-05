@@ -28,13 +28,13 @@ On your phone
 - Press Vol+ and Vol- simultaneously and plug in your phone to your computer
 
 On your computer, __this part will assume that you are on windows__
-- Install Samsung USB drivers (if they aren't already)
+- Install Samsung USB drivers (if they aren't already installed)
 - Download latest Odin version
 - Download November 2020 firmware, we reccomend using [Samfw](https://samfw.com/) as they don't ask a payment for older devices (unlike SamMobile)
 - Unpack the zip file
 - Open Odin
 - Select BL as the BL file you extracted
-- In settings, select "Bootloader update"
+- In the "settings" tab, select "Bootloader update"
 - Press start
 
 Once it finishes flashing, your phone will reboot, you can now follow the next steps
@@ -46,13 +46,13 @@ On your phone
 - Press Vol+ and Vol- simultaneously and plug in your phone to your computer
 
 On your computer, __this part will assume that you are on windows__
-- Install Samsung USB drivers (if they aren't already)
+- Install Samsung USB drivers (if they aren't already installed)
 - Download latest Odin version
 - Download the custom recovery you choose (either Lineage recovery for LineageOS 18.1, TWRP or PBRP)
 - Unpack the zip file, there should be a recovery.img somewhere
 - zip the recovery.img into a tar archive
 - Open Odin and select the newly created recovery.tar as AP
-- Go to settings tab and uncheck "Auto reboot"
+- Go to "settings" tab and uncheck "Auto reboot"
 - Press start to start the flash
 - Once Odin says "Pass" with a green background, press Vol- and Power at the same time and immediately switch to Vol+ and Power once the download mode screen is gone
 - You should be greeted by your custom recovery, don't worry, it will patch the system automatically so that the OS recovery doesn't overwrite your custom recovery
