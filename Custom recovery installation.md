@@ -23,6 +23,9 @@ This will check what steps you will require
 
 ---
 ### 2. Bootloader downgrade
+__WARNING : Bootloader downgrade is limited to the bit rev, if you are on bit rev *5*, you can't downgrade to bootloaders that have a lower bit rev__
+
+
 On your phone
 - Shut down your phone
 - Press Vol+ and Vol- simultaneously and plug in your phone to your computer
