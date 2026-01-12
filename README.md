@@ -81,7 +81,7 @@ Your phone will probably ask you to reset since reinstalling the system fucks up
 </details>
 <details>
 <summary>Direct flash through the recovery</summary>
-It will require to have magisk version 21.4, then you can flash it directly just like if it was the latest version
+It will require to have the Magisk app in version 21.4, then you can flash it directly just like if it was the latest version
 
 When installed, Magisk will ask you to reinstall to finish setting himself up, then it will ask you to update magisk, don't worry, you can do it safely
 </details>
