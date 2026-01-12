@@ -32,7 +32,7 @@ Here are the available GoodGuardian apps :
 - Galaxy App Booster
 
 ## Root
-It is reccomended to use magisk to root this phone, but due to some change in the way that magisk works and due to how this phone is architectured, __Direct flashing and boot.img patching magisk version other than 21.4 can and will probably lead to problems__.
+It is reccomended to use magisk to root this phone, but due to some change in the way that magisk works and due to how this phone is architectured, __Direct flashing and patching boot.img with a Magisk version other than 21.4 can and will probably lead to problems__.
 
 ### Best root apps and modules for this device : 
 - #hex_
