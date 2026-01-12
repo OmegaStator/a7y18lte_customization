@@ -9,6 +9,7 @@ You can use GoodLock on the Samsung Galaxy A7 2018, you can use it with one of t
 - Downloading GoodLock/GoodGuardians directly from the Galaxy Store (requires a Samsung account)
 - Downloading FineLock from the playstore (requires a google account)
 - Downloading FineLock from your favorite APK downloading website
+- Downloading GoodLock from your favorite APK downloading website
 
 Here are the available GoodLock apps :
 - ThemePark
