@@ -1,5 +1,7 @@
 
 # How to install a custom recovery on a7y18lte
+## __WARNING : Bootloader unlock is impossible on some phones, like US variant or career-sold devices, unlocking theses variants is impossible__
+### Note : not all careers have career lock, it really depends on the career.
 
 ### 0. Check your system
 This will check what steps you will require
