@@ -19,9 +19,9 @@
 ## Cameras
 |Camera identifier |Sensor model        |Aperture|Quality|Technologies|Use case              |FOV|
 |------------------|--------------------|--------|-------|------------|----------------------|---------|
-|High rear camera  |_unknown_           |f/2.2   |5Mpx   |_none_      |AR and depth detection|_unknown_|
-|Middle rear camera|Sony IMX576 Exmor RS|f/1.7   |24Mpx  |AF, Burst mode, manual focus, face detection, HDR, Gyro-EIS| Most photos and videos| _unknown_ |
-|Low rear camera   |_unknown_           |f/2.4   |8Mpx   |_none_      |Ultra wide photos     |120°     |
+|Top rear camera  |_unknown_           |f/2.2   |5Mpx   |_none_      |AR and depth detection|_unknown_|
+|Center rear camera|Sony IMX576 Exmor RS|f/1.7   |24Mpx  |AF, Burst mode, manual focus, face detection, HDR, Gyro-EIS| Most photos and videos| _unknown_ |
+|Bottom rear camera   |_unknown_           |f/2.4   |8Mpx   |_none_      |Ultra wide photos     |120°     |
 |Front Camera      |Sony IMX576 Exmor RS|f/2     |24Mpx  |Face unlock |Selfies, Face unlock  |_unknown_|
 
 ## OS
